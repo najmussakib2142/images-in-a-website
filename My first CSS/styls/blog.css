@@ -1,0 +1,38 @@
+.header{
+    height: 270px;
+    /* background-position: centers; */
+    /* background-image: url('florian-klauer-mk7D-4UCfmg-unsplash.jpg'); */
+    /* background-image: url('../clark-young-QdRnZlzYJPA-unsplash.jpg'); */
+    background-image: url('../styls/pics/patrick-fore-59lC6TgZAbQ-unsplash.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-size:contain; */
+    /* background-size: 50px; */
+}
+h3{
+    color: brown;
+   text-decoration: underline;
+   font-family:'Courier New', Courier, monospace ;
+}
+
+.Blog{
+    margin: 60px;
+    border: 10px  solid rgb(230, 189, 182);
+    box-shadow: 10px 10px 15px rgb(137, 133, 218);
+    border-radius: 15px 1px 1px;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+    
+}
+.eos{
+    border: 2px solid rgb(180, 18, 12);
+    /* display: block; */
+    /* visibility: hidden; */
+}
+
+li{
+    /* zdisplay:inline; */
+}

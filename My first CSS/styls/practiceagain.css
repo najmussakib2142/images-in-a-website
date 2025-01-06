@@ -1,0 +1,9 @@
+.eos{
+    border: 2px solid green;
+}
+h2{
+    font-style: italic;
+    text-shadow: 1px;
+    /* text-justify: auto; */
+    color: rgb(100, 74, 9);
+}

@@ -1,0 +1,19 @@
+.paragraph{
+    background-color: rgb(191, 219, 219);
+    border: 20px;
+    margin: 50px;
+    box-shadow: 10px 10px 15px;
+}
+.header{
+    text-align: center;
+    background-image: url(../styls/florian-klauer-mk7D-4UCfmg-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1045px;
+    height: 400px;
+}
+.red{
+    font-style: italic;
+    color: goldenrod;
+    background-color: azure;
+}
